@@ -1,0 +1,16 @@
+<svg version="1.1" 
+ baseProfile="full" 
+ width="1000" height="1000" 
+ xmlns="http://www.w3.org/2000/svg">
+ <polygon points="500,0 0,866.025 1000,866.025" fill="red"/> 
+ <circle cx="500" cy="200" r="100" fill="blue" /> 
+ <circle cx="400" cy="373.205" r="100" fill="blue" /> 
+ <circle cx="600" cy="373.205" r="100" fill="blue" /> 
+ <circle cx="300" cy="546.41" r="100" fill="blue" /> 
+ <circle cx="500" cy="546.41" r="100" fill="blue" /> 
+ <circle cx="700" cy="546.41" r="100" fill="blue" /> 
+ <circle cx="200" cy="719.615" r="100" fill="blue" /> 
+ <circle cx="400" cy="719.615" r="100" fill="blue" /> 
+ <circle cx="600" cy="719.615" r="100" fill="blue" /> 
+ <circle cx="800" cy="719.615" r="100" fill="blue" /> 
+</svg>

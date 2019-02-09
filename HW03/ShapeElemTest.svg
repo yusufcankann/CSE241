@@ -1,0 +1,7 @@
+<svg version="1.1" 
+ baseProfile="full" 
+ width="2000" height="2000" 
+ xmlns="http://www.w3.org/2000/svg">
+ <circle cx="1000" cy="1000" r="1000" fill="red" /> 
+ <circle cx="1000" cy="1000" r="100" fill="blue" /> 
+</svg>

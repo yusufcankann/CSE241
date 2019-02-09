@@ -1,0 +1,18 @@
+<svg version="1.1" 
+ baseProfile="full" 
+ width="1000" height="1000" 
+ xmlns="http://www.w3.org/2000/svg">
+ <polygon points="500,0 0,866.025 1000,866.025" fill="red"/> 
+<rect x="400" y="173.205" width="200" height="100" fill="blue" style="fill:blue;stroke:pink;stroke-width:5"/>
+<rect x="342.265" y="273.205" width="200" height="100" fill="blue" style="fill:blue;stroke:pink;stroke-width:5"/>
+<rect x="284.53" y="373.205" width="200" height="100" fill="blue" style="fill:blue;stroke:pink;stroke-width:5"/>
+<rect x="484.53" y="373.205" width="200" height="100" fill="blue" style="fill:blue;stroke:pink;stroke-width:5"/>
+<rect x="226.795" y="473.205" width="200" height="100" fill="blue" style="fill:blue;stroke:pink;stroke-width:5"/>
+<rect x="426.795" y="473.205" width="200" height="100" fill="blue" style="fill:blue;stroke:pink;stroke-width:5"/>
+<rect x="169.06" y="573.205" width="200" height="100" fill="blue" style="fill:blue;stroke:pink;stroke-width:5"/>
+<rect x="369.06" y="573.205" width="200" height="100" fill="blue" style="fill:blue;stroke:pink;stroke-width:5"/>
+<rect x="569.06" y="573.205" width="200" height="100" fill="blue" style="fill:blue;stroke:pink;stroke-width:5"/>
+<rect x="111.325" y="673.205" width="200" height="100" fill="blue" style="fill:blue;stroke:pink;stroke-width:5"/>
+<rect x="311.325" y="673.205" width="200" height="100" fill="blue" style="fill:blue;stroke:pink;stroke-width:5"/>
+<rect x="511.325" y="673.205" width="200" height="100" fill="blue" style="fill:blue;stroke:pink;stroke-width:5"/>
+</svg>

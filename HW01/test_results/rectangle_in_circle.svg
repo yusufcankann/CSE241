@@ -1,0 +1,41 @@
+<svg version="1.1" 
+ baseProfile="full" 
+ width="2000" height="2000" 
+ xmlns="http://www.w3.org/2000/svg">
+ <circle cx="1000" cy="1000" r="1000" fill="red" /> 
+<rect x="292.893" y="292.893" width="300" height="300" fill="blue" style="fill:blue;stroke:pink;stroke-width:5"/>
+<rect x="592.893" y="292.893" width="300" height="300" fill="blue" style="fill:blue;stroke:pink;stroke-width:5"/>
+<rect x="892.893" y="292.893" width="300" height="300" fill="blue" style="fill:blue;stroke:pink;stroke-width:5"/>
+<rect x="1192.89" y="292.893" width="300" height="300" fill="blue" style="fill:blue;stroke:pink;stroke-width:5"/>
+<rect x="292.893" y="592.893" width="300" height="300" fill="blue" style="fill:blue;stroke:pink;stroke-width:5"/>
+<rect x="592.893" y="592.893" width="300" height="300" fill="blue" style="fill:blue;stroke:pink;stroke-width:5"/>
+<rect x="892.893" y="592.893" width="300" height="300" fill="blue" style="fill:blue;stroke:pink;stroke-width:5"/>
+<rect x="1192.89" y="592.893" width="300" height="300" fill="blue" style="fill:blue;stroke:pink;stroke-width:5"/>
+<rect x="1492.89" y="592.893" width="300" height="300" fill="blue" style="fill:blue;stroke:pink;stroke-width:5"/>
+<rect x="292.893" y="892.893" width="300" height="300" fill="blue" style="fill:blue;stroke:pink;stroke-width:5"/>
+<rect x="592.893" y="892.893" width="300" height="300" fill="blue" style="fill:blue;stroke:pink;stroke-width:5"/>
+<rect x="892.893" y="892.893" width="300" height="300" fill="blue" style="fill:blue;stroke:pink;stroke-width:5"/>
+<rect x="1192.89" y="892.893" width="300" height="300" fill="blue" style="fill:blue;stroke:pink;stroke-width:5"/>
+<rect x="1492.89" y="892.893" width="300" height="300" fill="blue" style="fill:blue;stroke:pink;stroke-width:5"/>
+<rect x="592.893" y="1492.89" width="300" height="300" fill="blue" style="fill:blue;stroke:pink;stroke-width:5"/>
+<rect x="892.893" y="1492.89" width="300" height="300" fill="blue" style="fill:blue;stroke:pink;stroke-width:5"/>
+<rect x="1192.89" y="1492.89" width="300" height="300" fill="blue" style="fill:blue;stroke:pink;stroke-width:5"/>
+<rect x="292.893" y="592.893" width="300" height="300" fill="blue" style="fill:blue;stroke:pink;stroke-width:5"/>
+<rect x="592.893" y="592.893" width="300" height="300" fill="blue" style="fill:blue;stroke:pink;stroke-width:5"/>
+<rect x="892.893" y="592.893" width="300" height="300" fill="blue" style="fill:blue;stroke:pink;stroke-width:5"/>
+<rect x="1192.89" y="592.893" width="300" height="300" fill="blue" style="fill:blue;stroke:pink;stroke-width:5"/>
+<rect x="1492.89" y="592.893" width="300" height="300" fill="blue" style="fill:blue;stroke:pink;stroke-width:5"/>
+<rect x="292.893" y="892.893" width="300" height="300" fill="blue" style="fill:blue;stroke:pink;stroke-width:5"/>
+<rect x="592.893" y="892.893" width="300" height="300" fill="blue" style="fill:blue;stroke:pink;stroke-width:5"/>
+<rect x="892.893" y="892.893" width="300" height="300" fill="blue" style="fill:blue;stroke:pink;stroke-width:5"/>
+<rect x="1192.89" y="892.893" width="300" height="300" fill="blue" style="fill:blue;stroke:pink;stroke-width:5"/>
+<rect x="1492.89" y="892.893" width="300" height="300" fill="blue" style="fill:blue;stroke:pink;stroke-width:5"/>
+<rect x="292.893" y="1192.89" width="300" height="300" fill="blue" style="fill:blue;stroke:pink;stroke-width:5"/>
+<rect x="592.893" y="1192.89" width="300" height="300" fill="blue" style="fill:blue;stroke:pink;stroke-width:5"/>
+<rect x="892.893" y="1192.89" width="300" height="300" fill="blue" style="fill:blue;stroke:pink;stroke-width:5"/>
+<rect x="1192.89" y="1192.89" width="300" height="300" fill="blue" style="fill:blue;stroke:pink;stroke-width:5"/>
+<rect x="1492.89" y="1192.89" width="300" height="300" fill="blue" style="fill:blue;stroke:pink;stroke-width:5"/>
+<rect x="592.893" y="1492.89" width="300" height="300" fill="blue" style="fill:blue;stroke:pink;stroke-width:5"/>
+<rect x="892.893" y="1492.89" width="300" height="300" fill="blue" style="fill:blue;stroke:pink;stroke-width:5"/>
+<rect x="1192.89" y="1492.89" width="300" height="300" fill="blue" style="fill:blue;stroke:pink;stroke-width:5"/>
+</svg>

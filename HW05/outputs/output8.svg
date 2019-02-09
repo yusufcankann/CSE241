@@ -1,0 +1,51 @@
+<svg version="1.1" 
+ baseProfile="full" 
+ width="1000" height="1000" 
+ xmlns="http://www.w3.org/2000/svg">
+ <polygon points="500,0 0,866.025 1000,866.025" fill="red"/> 
+ <circle cx="500" cy="100" r="50" fill="blue" /> 
+ <circle cx="450" cy="186.603" r="50" fill="blue" /> 
+ <circle cx="550" cy="186.603" r="50" fill="blue" /> 
+ <circle cx="400" cy="273.205" r="50" fill="blue" /> 
+ <circle cx="500" cy="273.205" r="50" fill="blue" /> 
+ <circle cx="600" cy="273.205" r="50" fill="blue" /> 
+ <circle cx="350" cy="359.808" r="50" fill="blue" /> 
+ <circle cx="450" cy="359.808" r="50" fill="blue" /> 
+ <circle cx="550" cy="359.808" r="50" fill="blue" /> 
+ <circle cx="650" cy="359.808" r="50" fill="blue" /> 
+ <circle cx="300" cy="446.41" r="50" fill="blue" /> 
+ <circle cx="400" cy="446.41" r="50" fill="blue" /> 
+ <circle cx="500" cy="446.41" r="50" fill="blue" /> 
+ <circle cx="600" cy="446.41" r="50" fill="blue" /> 
+ <circle cx="700" cy="446.41" r="50" fill="blue" /> 
+ <circle cx="250" cy="533.013" r="50" fill="blue" /> 
+ <circle cx="350" cy="533.013" r="50" fill="blue" /> 
+ <circle cx="450" cy="533.013" r="50" fill="blue" /> 
+ <circle cx="550" cy="533.013" r="50" fill="blue" /> 
+ <circle cx="650" cy="533.013" r="50" fill="blue" /> 
+ <circle cx="750" cy="533.013" r="50" fill="blue" /> 
+ <circle cx="200" cy="619.615" r="50" fill="blue" /> 
+ <circle cx="300" cy="619.615" r="50" fill="blue" /> 
+ <circle cx="400" cy="619.615" r="50" fill="blue" /> 
+ <circle cx="500" cy="619.615" r="50" fill="blue" /> 
+ <circle cx="600" cy="619.615" r="50" fill="blue" /> 
+ <circle cx="700" cy="619.615" r="50" fill="blue" /> 
+ <circle cx="800" cy="619.615" r="50" fill="blue" /> 
+ <circle cx="150" cy="706.218" r="50" fill="blue" /> 
+ <circle cx="250" cy="706.218" r="50" fill="blue" /> 
+ <circle cx="350" cy="706.218" r="50" fill="blue" /> 
+ <circle cx="450" cy="706.218" r="50" fill="blue" /> 
+ <circle cx="550" cy="706.218" r="50" fill="blue" /> 
+ <circle cx="650" cy="706.218" r="50" fill="blue" /> 
+ <circle cx="750" cy="706.218" r="50" fill="blue" /> 
+ <circle cx="850" cy="706.218" r="50" fill="blue" /> 
+ <circle cx="100" cy="792.82" r="50" fill="blue" /> 
+ <circle cx="200" cy="792.82" r="50" fill="blue" /> 
+ <circle cx="300" cy="792.82" r="50" fill="blue" /> 
+ <circle cx="400" cy="792.82" r="50" fill="blue" /> 
+ <circle cx="500" cy="792.82" r="50" fill="blue" /> 
+ <circle cx="600" cy="792.82" r="50" fill="blue" /> 
+ <circle cx="700" cy="792.82" r="50" fill="blue" /> 
+ <circle cx="800" cy="792.82" r="50" fill="blue" /> 
+ <circle cx="900" cy="792.82" r="50" fill="blue" /> 
+</svg>

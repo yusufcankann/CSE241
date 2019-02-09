@@ -1,0 +1,9 @@
+rectangle in rectangle ->  big rectangle: 1000-1000 small rectangle 75-50
+circle in rectangle ->     rectangle: 1000-1000  circle: 60
+triangle in rectangle ->   rectangle: 500-700 triangle: 60
+rectangle in circle ->	   circle: 1000 rectangle: 300-300
+circle in circle ->    	   big circle: 600  small circle: 30
+triangle in circle -> 	   circle: 1000 - triangle: 300
+rectangle in triangle ->   triangle: 1000 - rectangle: 50-70
+circle in triangle ->      triangle: 1000 - circle: 175	
+triangle in triangle ->    triangle: 1000 - triangle:50

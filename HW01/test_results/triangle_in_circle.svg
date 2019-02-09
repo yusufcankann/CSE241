@@ -1,0 +1,67 @@
+<svg version="1.1" 
+ baseProfile="full" 
+ width="2000" height="2000" 
+ xmlns="http://www.w3.org/2000/svg">
+ <circle cx="1000" cy="1000" r="1000" fill="red" /> 
+<polygon points="850,11.314 1150,11.314 1000,271.122" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="850,11.314 1000,271.122 700,271.122" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="1150,11.314 1000,271.122 1300,271.122" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="1000,271.122 700,271.122 850,530.929" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="700,271.122 400,271.122 550,530.929" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="1000,271.122 1300,271.122 1150,530.929" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="1300,271.122 1600,271.122 1450,530.929" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="1000,530.929 700,530.929 850,790.737" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="700,530.929 400,530.929 550,790.737" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="1000,271.122 850,530.929 1150,530.929" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="700,271.122 550,530.929 850,530.929" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="400,271.122 250,530.929 550,530.929" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="1000,530.929 1300,530.929 1150,790.737" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="1300,530.929 1600,530.929 1450,790.737" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="1300,271.122 1450,530.929 1150,530.929" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="1600,271.122 1750,530.929 1450,530.929" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="1000,790.737 700,790.737 850,1050.54" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="700,790.737 400,790.737 550,1050.54" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="400,790.737 100,790.737 250,1050.54" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="1000,530.929 850,790.737 1150,790.737" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="700,530.929 550,790.737 850,790.737" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="400,530.929 250,790.737 550,790.737" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="1000,790.737 1300,790.737 1150,1050.54" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="1300,790.737 1600,790.737 1450,1050.54" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="1600,790.737 1900,790.737 1750,1050.54" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="1300,530.929 1450,790.737 1150,790.737" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="1600,530.929 1750,790.737 1450,790.737" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="1000,1050.54 700,1050.54 850,1310.35" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="700,1050.54 400,1050.54 550,1310.35" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="400,1050.54 100,1050.54 250,1310.35" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="1000,790.737 850,1050.54 1150,1050.54" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="700,790.737 550,1050.54 850,1050.54" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="400,790.737 250,1050.54 550,1050.54" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="1000,1050.54 1300,1050.54 1150,1310.35" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="1300,1050.54 1600,1050.54 1450,1310.35" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="1600,1050.54 1900,1050.54 1750,1310.35" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="1300,790.737 1450,1050.54 1150,1050.54" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="1600,790.737 1750,1050.54 1450,1050.54" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="1000,1310.35 700,1310.35 850,1570.16" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="700,1310.35 400,1310.35 550,1570.16" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="400,1310.35 100,1310.35 250,1570.16" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="1000,1050.54 850,1310.35 1150,1310.35" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="700,1050.54 550,1310.35 850,1310.35" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="400,1050.54 250,1310.35 550,1310.35" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="1000,1310.35 1300,1310.35 1150,1570.16" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="1300,1310.35 1600,1310.35 1450,1570.16" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="1600,1310.35 1900,1310.35 1750,1570.16" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="1300,1050.54 1450,1310.35 1150,1310.35" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="1600,1050.54 1750,1310.35 1450,1310.35" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="1000,1570.16 700,1570.16 850,1829.97" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="700,1570.16 400,1570.16 550,1829.97" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="1000,1310.35 850,1570.16 1150,1570.16" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="700,1310.35 550,1570.16 850,1570.16" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="400,1310.35 250,1570.16 550,1570.16" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="1000,1570.16 1300,1570.16 1150,1829.97" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="1300,1570.16 1600,1570.16 1450,1829.97" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="1300,1310.35 1450,1570.16 1150,1570.16" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="1600,1310.35 1750,1570.16 1450,1570.16" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="1000,1570.16 850,1829.97 1150,1829.97" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="700,1570.16 550,1829.97 850,1829.97" style="fill:blue;stroke:pink;stroke-width:2" />
+<polygon points="1300,1570.16 1450,1829.97 1150,1829.97" style="fill:blue;stroke:pink;stroke-width:2" />
+</svg>

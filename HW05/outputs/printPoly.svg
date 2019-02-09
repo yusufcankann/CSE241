@@ -1,0 +1,8 @@
+<svg version="1.1" 
+ baseProfile="full" 
+ width="2000" height="2000" 
+ xmlns="http://www.w3.org/2000/svg">
+<polygon points="0,0 2000,0 2000,2000 0,2000 " style="fill:blue;stroke:pink;stroke-width:5" /> 
+<polygon points="0,0 300,0 300,300 0,300 " style="fill:blue;stroke:pink;stroke-width:5" /> 
+<polygon points="0,866.025 500,0 1000,866.025 " style="fill:blue;stroke:pink;stroke-width:5" /> 
+</svg>

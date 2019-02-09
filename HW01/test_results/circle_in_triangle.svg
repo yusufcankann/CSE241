@@ -1,0 +1,9 @@
+<svg version="1.1" 
+ baseProfile="full" 
+ width="1000" height="1000" 
+ xmlns="http://www.w3.org/2000/svg">
+ <polygon points="500,0 0,866.025 1000,866.025" fill="red"/> 
+<circle cx="500" cy="350" r="175" fill="blue" />
+<circle cx="325" cy="653.109" r="175" fill="blue" />
+<circle cx="675" cy="653.109" r="175" fill="blue" />
+</svg>
